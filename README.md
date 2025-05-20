@@ -1,3 +1,3 @@
 # apancollege-demo
-this is my first Git Repositories
+This is my first Git Repository.
 Author - Aman dev sharma
